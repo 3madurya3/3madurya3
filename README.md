@@ -1,6 +1,6 @@
 ## Hi!
 
-My name's Madurya, and I'm a recent graduate from **UCLA** with a B.A. in **Linguistics and Computer Science**. 🗣️👩🏽‍💻
+My name's Madurya, and I'm a recent graduate from **UCLA** with a degree in **Linguistics and Computer Science**. 🗣️👩🏽‍💻
 
 Now, I'm doing my **Masters in Computer Science at UCSD**! 🤖🪼
 
