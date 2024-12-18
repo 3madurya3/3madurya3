@@ -12,7 +12,7 @@ Check out my most recent project I did for my NLP class at UCSD [here](https://g
 
 For my most recent (public) app dev work, check out the [app](https://github.com/3madurya3/pocketpets) I made for a hackathon last school year.
 
-Also, I worked as a programmer research assistant at the Speech and Cognitive Development lab at UCLA last year. I'm super proud of [this project](https://github.com/megseekosh/everyday_speech/tree/main), which was used for results and analysis for thousands of hours of speech audio data in an academic paper. Checkout the script I wrote called *0_custom_epoch.py* -- I had come up with my own greedy algorithm to process the data after learning about greedy algorithms in my CS class!
+Also, I worked as a programmer research assistant at the Speech and Cognitive Development lab at UCLA last year. I'm super proud of [this project](https://github.com/megseekosh/everyday_speech/tree/main), which was used for results and analysis for thousands of hours of speech audio data in an academic paper. Check out the script I wrote called *0_custom_epoch.py* -- I had come up with my own greedy algorithm to process the data after learning about greedy algorithms in my CS class!
 
 In my free time, I like to:
 - listen to and make music 💿
