@@ -4,11 +4,11 @@ My name's Madurya, and I'm a recent graduate from **UCLA** with a degree in **Li
 
 Now, I'm doing my **Masters in Computer Science at UCSD**! 🤖🪼
 
-I interned at Pure Storage in Summer 2025 as a SWE intern and worked on asynchronous REST APIs. 
-
-Recently, I was working on a research project for the Computing Education lab at UCSD, where I ported an Android app written in Java, aimed to help students manage procrastination, to a React Native iOS app. 
-
 I'm interested in systems, software development (web and app), user experience, programming languages/compilers, and natural language processing. 
+
+My previous academic and research work:
+
+My first year as a Masters student, I worked on a research project for the Computing Education lab at UCSD, where I ported an Android app written in Java, aimed to help students manage procrastination, to a React Native iOS app. 
 
 Check out a project I did for my NLP class at UCSD [here](https://github.com/3madurya3/cse256_finalproject), where I fine-tuned Wav2Vec for Automatic Speech Recognition on a dataset of second-language English speakers.
 
